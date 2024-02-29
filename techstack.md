@@ -3,18 +3,18 @@
 ## Tech Stack
 thachlp/lombok is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Java](https://www.java.com) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [Java](https://www.java.com) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Gradle](https://www.gradle.org/) – Java Build Tools
 - [JUnit](http://junit.org/) – Testing Frameworks
 - [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -24,18 +24,18 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 thachlp/lombok is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/2020/874086.png' alt='JUnit'/> [JUnit](http://junit.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg' alt='Log4j'/> [Log4j](https://logging.apache.org/log4j/2.x/) – Logging Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
 
 Full tech stack [here](/techstack.md)
 
@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [thachlp/lombok](https://github.com/thachlp/lombok)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/05/24 <br/>Report generated|
+|14<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
